@@ -8,6 +8,7 @@ import java.util.Set;
  */
 public class Pair {
 
+    // TODO: Naming
     public final String left;
     public final String right;
 
